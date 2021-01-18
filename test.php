@@ -1,3 +1,3 @@
 <?php
-// this is a testfile
+// this is a testfile  Funka dette??
 ?>
