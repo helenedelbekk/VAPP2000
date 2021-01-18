@@ -1,3 +1,3 @@
 <?php
-// this is a testfile  Funka dette??
+// this is a testfile  Funka dette??  yes it did:)   
 ?>
