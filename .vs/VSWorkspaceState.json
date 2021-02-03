@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Vapptest",
+    "\\Vapptest\\wwwroot"
   ],
+  "SelectedNode": "\\Vapptest",
   "PreviewInSolutionExplorer": false
 }
