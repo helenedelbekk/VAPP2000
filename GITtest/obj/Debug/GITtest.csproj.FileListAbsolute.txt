@@ -1,0 +1,6 @@
+/Users/helenedelbekk/Projects/GITtest/GITtest/bin/GITtest.dll
+/Users/helenedelbekk/Projects/GITtest/GITtest/bin/GITtest.pdb
+/Users/helenedelbekk/Projects/GITtest/GITtest/obj/Debug/GITtest.csprojAssemblyReference.cache
+/Users/helenedelbekk/Projects/GITtest/GITtest/obj/Debug/GITtest.csproj.CoreCompileInputs.cache
+/Users/helenedelbekk/Projects/GITtest/GITtest/obj/Debug/GITtest.dll
+/Users/helenedelbekk/Projects/GITtest/GITtest/obj/Debug/GITtest.pdb
